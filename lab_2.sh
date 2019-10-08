@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sudo apt install git                                             # Загружаем git
 # Следуем инструкции установки с сайта https://mavlink.io/en/getting_started/installation.html
 
 rm -rf mavlink                                                   # Рекурсивно удаляем без подтверждения и кода ошибочного заверщения каталок mavlink
